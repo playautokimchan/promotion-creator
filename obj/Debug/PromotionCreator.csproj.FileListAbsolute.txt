@@ -1,0 +1,14 @@
+C:\Users\playauto\documents\visual studio 2017\Projects\PromotionCreator\bin\Debug\PromotionCreator.exe
+C:\Users\playauto\documents\visual studio 2017\Projects\PromotionCreator\bin\Debug\PromotionCreator.pdb
+C:\Users\playauto\documents\visual studio 2017\Projects\PromotionCreator\obj\Debug\PromotionCreator.csprojResolveAssemblyReference.cache
+C:\Users\playauto\documents\visual studio 2017\Projects\PromotionCreator\obj\Debug\MainWindow.g.cs
+C:\Users\playauto\documents\visual studio 2017\Projects\PromotionCreator\obj\Debug\App.g.cs
+C:\Users\playauto\documents\visual studio 2017\Projects\PromotionCreator\obj\Debug\PromotionCreator_MarkupCompile.cache
+C:\Users\playauto\documents\visual studio 2017\Projects\PromotionCreator\obj\Debug\PromotionCreator_MarkupCompile.lref
+C:\Users\playauto\documents\visual studio 2017\Projects\PromotionCreator\obj\Debug\MainWindow.baml
+C:\Users\playauto\documents\visual studio 2017\Projects\PromotionCreator\obj\Debug\PromotionCreator.g.resources
+C:\Users\playauto\documents\visual studio 2017\Projects\PromotionCreator\obj\Debug\PromotionCreator.Properties.Resources.resources
+C:\Users\playauto\documents\visual studio 2017\Projects\PromotionCreator\obj\Debug\PromotionCreator.csproj.GenerateResource.cache
+C:\Users\playauto\documents\visual studio 2017\Projects\PromotionCreator\obj\Debug\PromotionCreator.csproj.CoreCompileInputs.cache
+C:\Users\playauto\documents\visual studio 2017\Projects\PromotionCreator\obj\Debug\PromotionCreator.exe
+C:\Users\playauto\documents\visual studio 2017\Projects\PromotionCreator\obj\Debug\PromotionCreator.pdb
